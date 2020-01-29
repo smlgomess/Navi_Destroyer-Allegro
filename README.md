@@ -1,5 +1,7 @@
 Navi Destroyer
 
+![imagem do jogo](menu-game.png)
+
 Trata-se de um projeto antigo onde fiz um jogo utilizando linguagem C com auxílio da biblioteca Allegro para fins de estudo.
 
 O jogo encontra-se num estado "incompleto", onde eu pretendia adicionar outras coisas como sons e outros detalhes, mas é jogavél de certa forma.
